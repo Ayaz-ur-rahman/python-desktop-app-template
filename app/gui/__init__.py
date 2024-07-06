@@ -1,8 +1,5 @@
-# This file can be left empty or used to initialize the gui package
-# Alternatively, you can include basic package-level docstrings or imports if needed.
-
 """
-GUI components for my_vtk_app
+GUI components for app
 """
 
 # Example import

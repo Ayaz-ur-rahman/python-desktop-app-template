@@ -1,5 +1,5 @@
 """
-Controllers for my vtk app
+Controllers for app
 """
 
 # Example import
